@@ -450,6 +450,14 @@ DataVersionResolver.versions[3117]="1.19.1"
 DataVersionResolver.versions[3118]="1.19.2 Release Candidate 1"
 DataVersionResolver.versions[3119]="1.19.2 Release Candidate 2"
 DataVersionResolver.versions[3120]="1.19.2"
+DataVersionResolver.versions[3205]="22w42a"
+DataVersionResolver.versions[3206]="22w43a"
+DataVersionResolver.versions[3207]="22w44a"
+DataVersionResolver.versions[3208]="22w45a"
+DataVersionResolver.versions[3210]="22w46a"
+DataVersionResolver.versions[3211]="1.19.3 Pre-release 1"
+DataVersionResolver.versions[3212]="1.19.3 Pre-release 2"
+DataVersionResolver.versions[3213]="1.19.3 Pre-release 3"
 
 function DataVersionResolver.styler:main(root, context)
 end
