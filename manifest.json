@@ -1,7 +1,7 @@
 {
   "link" : "https://github.com/MattPryze/DataVersionResolver",
   "name" : "DataVersion Resolver",
-  "version" : 2,
+  "version" : "1.0.0",
   "author" : "Matt Pryze",
   "description" : "Resolves DataVersion values into their update name.",
   "editions" : ["JAVA"],
