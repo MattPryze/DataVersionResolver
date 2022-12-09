@@ -458,6 +458,7 @@ DataVersionResolver.versions[3210]="22w46a"
 DataVersionResolver.versions[3211]="1.19.3 Pre-release 1"
 DataVersionResolver.versions[3212]="1.19.3 Pre-release 2"
 DataVersionResolver.versions[3213]="1.19.3 Pre-release 3"
+DataVersionResolver.versions[3218]="1.19.3"
 
 function DataVersionResolver.styler:main(root, context)
 end
