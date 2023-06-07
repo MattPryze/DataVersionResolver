@@ -459,7 +459,6 @@ DataVersionResolver.versions[3211]="1.19.3 Pre-release 1"
 DataVersionResolver.versions[3212]="1.19.3 Pre-release 2"
 DataVersionResolver.versions[3213]="1.19.3 Pre-release 3"
 DataVersionResolver.versions[3218]="1.19.3"
-
 DataVersionResolver.versions[3320]="23w04a"
 DataVersionResolver.versions[3321]="23w04a"
 DataVersionResolver.versions[3323]="23w05a"
